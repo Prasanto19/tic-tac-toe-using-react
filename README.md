@@ -14,14 +14,14 @@
 </div>
 <Br>
 <div id="header" align="center">
-  <a href="https://tic-tac-toe-using-react.vercel.app"><img src="/tic-tac-toe.png" width="100"/></a>
+  <a href="https://tic-tac-toe-using-react-2025.vercel.app/"><img src="https://github.com/Prasanto19/tic-tac-toe-using-react/blob/main/src/assets/tic-tac-toe.png" width="100"/></a>
 </div>
 <h2  id="header" align="center" >
-  <a  href="https://tic-tac-toe-using-react.vercel.app" >Prashanta | Tic-Tac-Toe using React.js</a>
+  <a  href="https://tic-tac-toe-using-react-2025.vercel.app/" >Prashanta | Tic-Tac-Toe using React.js</a>
 </h2>
 <div >
-  <a href="https://tic-tac-toe-using-react.vercel.app" target="_blank">
-   <img alt="Responsive app image" src="/tic-tac-toe-banner.png" />
+  <a href="https://tic-tac-toe-using-react-2025.vercel.app/" target="_blank">
+   <img alt="Responsive app image" src="https://github.com/Prasanto19/tic-tac-toe-using-react/blob/main/src/assets/tic-tac-toe-banner.png" />
   </a>
 </div>
 <hr>
@@ -29,7 +29,7 @@
 
 ## Built With
 
-This is a <a href="https://tic-tac-toe-using-react.vercel.app" target="_blank">Tic Tac Toe</a> game build with react and vite.
+This is a <a href="https://tic-tac-toe-using-react-2025.vercel.app/" target="_blank">Tic Tac Toe</a> game build with react and vite.
 
 Two people can play this game.
 If the game found the winner, it will announce the winner name and end the game.
